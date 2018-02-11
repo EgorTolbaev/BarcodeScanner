@@ -1,0 +1,70 @@
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\XamarinQrCodeCamera.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\XamarinQrCodeCamera.pdb
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\BarcodeScanner.BarcodeScanner.apk
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\BarcodeScanner.BarcodeScanner-Signed.apk
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.GooglePlayServices.Base.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\Xamarin.GooglePlayServices.Vision.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\BarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\XamarinQrCodeCamera.dll
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\XamarinQrCodeCamera.pdb
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\android\bin\BarcodeScanner.BarcodeScanner.apk
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\res\layout\codeselection.xml
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\res\layout\main.xml
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\res\values\strings.xml
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\res\drawable\icon.png
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\R.cs.flag
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\uploadflags.txt
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\bin\Release\XamarinQrCodeCamera.dll.mdb
+C:\Users\user\Desktop\XamarinQrCodeCamera-master — копия\obj\Release\android\assets\XamarinQrCodeCamera.dll.mdb
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\XamarinQrCodeCamera.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\XamarinQrCodeCamera.pdb
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\BarcodeScanner.BarcodeScanner.apk
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\BarcodeScanner.BarcodeScanner-Signed.apk
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.GooglePlayServices.Base.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\Xamarin.GooglePlayServices.Vision.dll
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\BarcodeScanner.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\BarcodeScanner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\XamarinQrCodeCamera.dll
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\XamarinQrCodeCamera.pdb
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\android\bin\BarcodeScanner.BarcodeScanner.apk
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\res\layout\codeselection.xml
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\res\layout\main.xml
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\res\values\strings.xml
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\res\drawable\icon.png
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\R.cs.flag
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\uploadflags.txt
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\XamarinQrCodeCamera.dll.mdb
+C:\Users\user\Desktop\BarcodeScanner\obj\Release\android\assets\XamarinQrCodeCamera.dll.mdb
+C:\Users\user\Desktop\BarcodeScanner\bin\Release\XamarinQrCodeCamera.dll
+obj\Release\linksrc\XamarinQrCodeCamera.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

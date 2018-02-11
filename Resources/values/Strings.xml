@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Barcode Scanner</string>
+  
+    <string name="text">Выберите вид кода</string>
+    <string name="qr">QR code</string>
+    <string name="code">Code-128</string>
+    <string name="ean">Ean-13 code</string>
+  
+    <string name="qrS">Пожалуйста, сфокусируйте камеру на QR-коде</string>
+    <string name="codeS">Пожалуйста, сфокусируйте камеру на Code-128</string>
+   <string name="eanS">Пожалуйста, сфокусируйте камеру на Ean-13 коде</string>
+</resources>
