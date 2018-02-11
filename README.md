@@ -1,4 +1,4 @@
-# BarcodeScanner
+# Barcode Scanner
 Приложение для сканирования штрих-кодов
 Минимальная версия android 4.1 (уровень api 16 Jelly Bean)
 
